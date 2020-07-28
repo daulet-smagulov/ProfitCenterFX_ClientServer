@@ -1,0 +1,9 @@
+<Config>
+	<IPAddress>192.168.1.255</IPAddress>
+	<Port>65000</Port>
+	<GeneratorSettings>
+		<MinValue>0</MinValue>
+		<MaxValue>100</MaxValue>
+	</GeneratorSettings>
+	<Tolerance>1e-8</Tolerance>
+</Config>
